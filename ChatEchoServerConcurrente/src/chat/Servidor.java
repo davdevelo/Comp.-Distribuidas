@@ -4,6 +4,7 @@ package chat;
 /**
  *
  * @author David Velasco
+ *         Carlos Sampedro
  */
 
 import java.io.*;
